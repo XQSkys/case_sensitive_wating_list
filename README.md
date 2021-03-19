@@ -5,3 +5,5 @@ first ativate list by clicking "warteliste"
 then click Bereit! to add
 delete with blue button
 highligt with left green square
+
+MIT License
